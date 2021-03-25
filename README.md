@@ -12,3 +12,4 @@ List of awesome games playable online in less than 30 min
 | Agar.io | https://agar.io/     |     ? | 
 | GeoGuessr| https://www.geoguessr.com/     |     ? | 
 | JKLM | https://jklm.fun/    |     ? | 
+|JigSaw Puzzles|https://jigsawpuzzles.io/|?|
