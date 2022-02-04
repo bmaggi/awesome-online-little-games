@@ -14,3 +14,4 @@ List of awesome games playable online in less than 30 min
 | Geobingo | https://geobingo.io/|* |
 | JKLM | https://jklm.fun/    |     ? | 
 |JigSaw Puzzles|https://jigsawpuzzles.io/|?|
+|Maze|https://95.00-59.com/en/#gamemaze|1|
