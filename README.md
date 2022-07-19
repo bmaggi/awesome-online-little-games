@@ -13,6 +13,7 @@ List of awesome games playable online in less than 30 min
 | Geobingo | https://geobingo.io/|* |
 | JKLM | https://jklm.fun/    |     ? | 
 |JigSaw Puzzles|https://jigsawpuzzles.io/|?|
+|Petit Bac |https://petitbac.net/|3-45|
 
 # Solo player
 | Game          | Url           |
