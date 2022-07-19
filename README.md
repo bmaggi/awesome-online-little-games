@@ -8,7 +8,7 @@ List of awesome games playable online in less than 30 min
 | ------------- | ------------- | ----- | 
 | Gartic Phone  | https://garticphone.com/fr | 4-30| 
 | Scribbl     | https://skribbl.io/      |   ? | 
-| Agar.io | https://agar.io/     |     ? | 
+| Agar.io | https://agar.io/#ffa    |     ? | 
 | GeoGuessr| https://www.geoguessr.com/     |     ? | 
 | Geobingo | https://geobingo.io/|* |
 | JKLM | https://jklm.fun/    |     ? | 
