@@ -17,6 +17,7 @@ List of awesome games playable online in less than 30 min
 |CardzMania |https://www.cardzmania.com/games/|1-12|
 |ChronoPhoto|https://www.chronophoto.app|1-*|
 |Back of your Hand|https://backofyourhand.com/ |1-*|
+|Customizables Quiz | https://quiz.com/|1-*|
 
 # Solo player
 | Game          | Url           |
