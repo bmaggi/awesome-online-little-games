@@ -22,6 +22,11 @@ List of awesome games playable online in less than 30 min
 |Wiki Race|https://wiki-race.com/|1-*|
 
 # Solo player
+# Companion Sites (Fan-Maintained)
+
+| Resource | Description |
+|---|---|
+| [Meccha Chameleon Atlas](https://mecchachameleon.art/) | Fan-maintained hide-spots reference, paint-match notes, and seeker counter-tips for the paint-based hide-and-seek game Meccha Chameleon. Unofficial, not affiliated with the developer. |
 | Game          | Url           |
 | ------------- | ------------- | 
 |Timeline| https://wikitrivia.tomjwatson.com/|
