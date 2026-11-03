@@ -20,6 +20,7 @@ List of awesome games playable online in less than 30 min
 |Customizables Quiz | https://quiz.com/|1-*|
 |Blind test|https://whatthetune.com/ |1 -*|
 |Wiki Race|https://wiki-race.com/|1-*|
+|Curvytron 2|https://curvytron2.com/|1-*|
 
 # Solo player
 | Game          | Url           |
