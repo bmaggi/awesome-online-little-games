@@ -21,6 +21,7 @@ List of awesome games playable online in less than 30 min
 |Blind test|https://whatthetune.com/ |1 -*|
 |Wiki Race|https://wiki-race.com/|1-*|
 |Curvytron 2|https://curvytron2.com/|1-*|
+|Huss Valley Game|https://hussvalley.io/|2-30|
 
 # Solo player
 | Game          | Url           |
