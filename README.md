@@ -28,3 +28,4 @@ List of awesome games playable online in less than 30 min
 |Timeline| https://wikitrivia.tomjwatson.com/|
 |Which is AI ? |https://www.whichisai.com/|
 |Which face is real ? | https://www.whichfaceisreal.com |
+|2048Juego| https://2048juego.com/ |
