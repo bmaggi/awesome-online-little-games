@@ -7,4 +7,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - uses: gaurav-nelson/github-action-markdown-link-check@v1
+    - uses: tcort/github-action-markdown-link-check@v1
+      with:
+        config-file: .github/markdown-link-check.json
+    - name: Check Agar.io
+      shell: bash
+      run: |
+        url='https://agar.io/'
+        user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
+        status=$(curl --silent --show-error --location --max-time 15 \
+          --user-agent "$user_agent" --output /dev/null --write-out '%{http_code}' "$url")
+        case "$status" in
+          2[0-9][0-9]) echo "Agar.io returned HTTP $status" ;;
+          403) echo "::warning::Agar.io returned HTTP 403. Availability is indeterminate from this runner." ;;
+          *) echo "::error::Agar.io returned HTTP $status"; exit 1 ;;
+        esac
