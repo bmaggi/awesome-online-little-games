@@ -26,6 +26,7 @@ List of awesome games playable online in less than 30 min
 # Solo player
 | Game          | Url           |
 | ------------- | ------------- | 
+|Daily Category Sprint|https://pufferparty.org/categories-game/|
 |Timeline| https://wikitrivia.tomjwatson.com/|
 |Which is AI ? |https://www.whichisai.com/|
 |Which face is real ? | https://www.whichfaceisreal.com |
